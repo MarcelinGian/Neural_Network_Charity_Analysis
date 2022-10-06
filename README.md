@@ -1,5 +1,5 @@
 # Neural_Network_Charity_Analysis
-###Using Neural Networks & Machine Learning to predict whether applicants will be successful if funded by the "Alphabet Soup" organization. 
+### Using Neural Networks & Machine Learning to predict whether applicants will be successful if funded by the "Alphabet Soup" organization. 
 
 ***
 ### Data Preprocessing:
